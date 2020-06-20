@@ -13,3 +13,11 @@ Please Read LICENCE file before making changes
 | Background-lighter | ![#28252e](https://via.placeholder.com/10/28252e?text=+) `#28252e` |
 | Orange gradient    | linear-gradient(270deg,#ff8a00,#e52e71)                            |
 | Highlighting color | ![#ff8a00](https://via.placeholder.com/10/ff8a00?text=+) `#ff8a00` |
+
+## 📐 Get Started
+
+```bash
+gatsby new portfolio https://github.com/yashrajmishra/css-tricks-style-portfolio.git
+cd portfolio
+gatsby develop
+```
