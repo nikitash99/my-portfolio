@@ -1,0 +1,127 @@
+@import (reference) '../../../styles/index.less';
+.content{
+    border-radius: @border-radius-content;
+    margin: 0px;
+    min-height: 280px
+}
+
+.sidebarContent{
+    // background: #28252e;
+    color: #cccccc;
+    border-radius: @border-radius-full;
+    margin: 0px;
+    aside{
+        padding: @padding-margin-val;
+    
+        .profileAvatar{
+            background-image: url('../../../images/me.jpg');
+            height: 219px;
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius:  @border-radius-full;
+            @media screen and (max-width:767px){
+                max-width: 230px;
+                margin: auto;
+                
+            }
+        }
+        .name{
+            margin-top:1.4rem;
+            h2{
+                font-weight: 200;
+                color: #fff;
+                letter-spacing: 2px;
+            }
+            span{
+                font-weight: 600;
+                letter-spacing: 0px;
+            }
+            .badge {
+                margin-top: 0.5rem;
+                font-size: .837rem;
+                font-weight: 400;
+                border-radius: 10rem;
+                padding: .6rem 1rem;
+            }
+            .badgeGray {
+                background: linear-gradient(270deg,#ff8a00,#e52e71);
+                color: #ffffff;
+            }
+            .boxName{
+                width: 100%;
+            }
+            ul{
+                list-style-type: none;
+                a{
+                    color: #ff8a00;
+                    width: 200px;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+    
+                }
+            }
+            .contactBlock {
+                color: #44566C;
+                font-size: .937rem;
+                padding-left: 0;
+                margin-bottom: 1.3rem;
+                @media screen and (max-width: 767px){
+                    max-width: 230px;
+                }
+            }
+            .contactBlockItem {
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: -moz-box;
+                display: flex;
+                -webkit-align-items: center;
+                -ms-flex-align: center;
+                align-items: center;
+                margin-bottom: .75rem;
+            }
+            .resumeDownload{
+                a{
+                    padding: .9rem 1rem;
+                    text-transform: uppercase;
+                    background: linear-gradient(270deg,#ff8a00,#e52e71);
+                    border-radius: 28px;
+                    color: #fff;
+                }
+            }
+        }
+    }
+    a{
+        color: #ff8a00;
+        &:hover{
+            color: #fff;
+        }
+        .emailHider{
+            font-size: 0.837rem;
+            font-weight: 400 !important;
+            &::before{
+                content: 'mishra.yashrajs';
+            }
+            &::after{
+                content:'gmail.com'
+            }
+        }
+    }
+}
+
+.background{
+    .whiteBg()
+}
+.boxContent{
+    padding: @padding-margin-val;
+    padding-left: 0;
+    @media screen and (max-width: 767px){
+        padding: @padding-margin-val;
+        padding-top: 0;
+    }
+    
+}
+
+.sideBar404Radius{
+    border-radius: 3rem 0 3rem 3rem;
+}
