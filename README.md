@@ -17,7 +17,7 @@ Please Read LICENCE file before making changes
 ## 📐 Get Started
 
 ```bash
-gatsby new portfolio https://github.com/yashrajmishra/css-tricks-style-portfolio.git
+gatsby new portfolio https://github.com/nikitasharma/css-tricks-style-portfolio.git
 cd portfolio
 gatsby develop
 ```

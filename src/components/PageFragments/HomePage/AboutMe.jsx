@@ -3,9 +3,9 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: `Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-  Veritatis quisquam eligendi, ex ab dolore nam reprehenderit consequuntur 
-  enim maxime dolorem id sequi ea. Labore mollitia fugit ducimus nemo et repellat 
+  paraOne: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  Veritatis quisquam eligendi, ex ab dolore nam reprehenderit consequuntur
+  enim maxime dolorem id sequi ea. Labore mollitia fugit ducimus nemo et repellat
   optio fuga? Quas animi ab eius reiciendis voluptates necessitatibus repudiandae quo, u
   llam praesentium beatae enim consequatur soluta vero minus suscipit?`,
   paraTwo: `Winter will come again!!`,
@@ -21,8 +21,8 @@ const AboutMe = () => {
           path=""
           keywords={[
             'Portfolio',
-            'Yashraj',
-            'Mishra',
+            'nikita',
+            'sharma',
             'for the love of designing',
             'bahenchod',
             'ReactJS',

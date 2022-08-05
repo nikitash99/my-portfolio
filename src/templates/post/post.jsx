@@ -29,7 +29,7 @@ const Post = ({ data }) => {
           title={title}
           description={excerpt}
           path={path}
-          keywords={['Yashraj', 'Mishra']}
+          keywords={['nikita', 'sharma']}
         />
         <Header />
         <SidebarWrapper>

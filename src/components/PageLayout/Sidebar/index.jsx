@@ -17,7 +17,7 @@ const DomContent = () => (
     <div className={`${style.name} centerAlign`}>
       <div className={`${style.boxName} centerAlign`}>
         <h2>
-          Yashraj <span>Mishra</span>
+          nikita <span>sharma</span>
         </h2>
       </div>
       <div className={`${style.badge} ${style.badgeGray}`}>
@@ -75,7 +75,7 @@ const DomContent = () => (
             <FeatherIcon size="19" icon="mail" />
           </span>{' '}
           &nbsp; &nbsp;
-          <a href="mailto:mishra.yashrajs@gmail.com" target="_top">
+          <a href="mailto:sharma.nikitas@gmail.com" target="_top">
             <span className={style.emailHider}>@</span>
           </a>
         </li>

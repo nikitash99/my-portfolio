@@ -13,9 +13,9 @@ module.exports = {
   },
   social: {
     github: 'https://github.com/nikitash99',
-    facebook: 'https://www.facebook.com/mishra.yashraj',
-    twitter: 'https://twitter.com/MishraYashrajs',
-    instagram: 'https://www.instagram.com/mishra.yashrajs',
+    facebook: 'https://www.facebook.com/sharma.nikita',
+    twitter: 'https://twitter.com/sharmanikitas',
+    instagram: 'https://www.instagram.com/sharma.nikitas',
   },
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
 };

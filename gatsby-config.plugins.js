@@ -16,8 +16,8 @@ module.exports = [
   {
     resolve: 'gatsby-plugin-manifest',
     options: {
-      name: 'Yashraj Mishra',
-      short_name: 'Yashraj Mishra',
+      name: 'nikita sharma',
+      short_name: 'nikita sharma',
       start_url: '/',
       background_color: '#304CFD',
       theme_color: '#304CFD',

@@ -6,8 +6,8 @@ export default () => {
   return (
     <footer>
       Made with 💖 by{' '}
-      <a href="https://yashraj.now.sh/" target="blank">
-        Yashraj Mishra
+      <a href="https://nikita.now.sh/" target="blank">
+        nikita sharma
       </a>
     </footer>
   );
