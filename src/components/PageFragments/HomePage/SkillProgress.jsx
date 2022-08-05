@@ -13,7 +13,7 @@ const SkillsProgress = () => (
         <ProgressBar percent={90} text="NodeJS" />
       </Col>
       <Col xs={24} sm={24} md={12}>
-        <ProgressBar percent={70} text="Electron" />
+        <ProgressBar percent={70} text="c++" />
         <ProgressBar percent={90} text="Firebase" />
         <ProgressBar percent={78} text="MongoDB" />
         <ProgressBar percent={80} text="React Native" />
