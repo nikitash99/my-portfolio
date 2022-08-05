@@ -14,7 +14,7 @@ module.exports = {
   social: {
     github: 'https://github.com/nikitash99',
     facebook: 'https://www.facebook.com/sharma.nikita',
-    twitter: 'https://twitter.com/sharmanikitas',
+    twitter: 'https://twitter.com/sharma.nikitas',
     instagram: 'https://www.instagram.com/sharma.nikitas',
   },
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
