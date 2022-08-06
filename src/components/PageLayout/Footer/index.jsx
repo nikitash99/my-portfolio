@@ -7,7 +7,7 @@ export default () => {
     <footer>
       Made with 💖 by{' '}
       <a href="https://nikita.now.sh/" target="blank">
-        nikita sharma
+        Nikita sharma
       </a>
     </footer>
   );
