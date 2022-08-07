@@ -62,7 +62,7 @@ const DomContent = () => (
           <span>
             <FeatherIcon size="19" icon="calendar" />{' '}
           </span>
-          &nbsp; &nbsp; Jan 18,2000
+          &nbsp; &nbsp; Feb 26,1999
         </li>
         <li className={`${style.contactBlockItem}`}>
           <span>
@@ -75,7 +75,7 @@ const DomContent = () => (
             <FeatherIcon size="19" icon="mail" />
           </span>{' '}
           &nbsp; &nbsp;
-          <a href="mailto:sharma.nikitas@gmail.com" target="_top">
+          <a href="mailto:nikkish1999@gmail.com" target="_top">
             <span className={style.emailHider}>@</span>
           </a>
         </li>
