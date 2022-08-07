@@ -21,13 +21,9 @@ const AboutMe = () => {
           path=""
           keywords={[
             'Portfolio',
-            'nikita',
-            'sharma',
-            'for the love of designing',
-            'bahenchod',
-            'ReactJS',
-            'NodeJS',
-            'and lawada',
+            'Nikita',
+            'sharma'
+
           ]}
         />
         <h1 className="titleSeparate">About Me</h1>
