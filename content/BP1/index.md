@@ -1,29 +1,33 @@
 ---
-title: 'Creating My Portfolio'
+title: 'First Step in web development'
 path: blog/bp1
-tags: [Web development, test2, test3]
+tags: [Web development, VSCode, Django]
 cover: ./photo.jpeg
 date: 2022-08-06
 excerpt: My Experience Creating my first portfolio...
 ---
 
-Hi My Name is Nikita and from today i will maintain my porfolio.
-## Promise to Jiju
+Hi My Name is Nikita and my first blog contains my first gym website when i push my hand into web development.
+## Gym Website
 List
 
- - Coffee
- - Tea
- - Milk
+ - How to Create Form
+ - Designing
+ - Put life on it
 
-List2
 
- 1. Pen
- 2. Copy
- 3. Notebook
- 4. Laptop
- - [x] Phone
- - [x] Computer
- - [x] PC
+
+ 1. Gym Trainer
+ 2. Diet Plan
+ 3. Some extra knowledge about health care.
+ 4. Machine information
+
+ Used Technology
+
+ - [x] Django
+ - [x] HTML
+ - [x] CSS
+ - [x] Javascript
 
 
 
